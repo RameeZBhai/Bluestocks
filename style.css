@@ -189,3 +189,88 @@ h1{
     display: flex;
     justify-content: space-between;
 }
+
+/* footer part */
+.footer{
+    background-color: white;
+}
+.footer-container{
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.footer-resources{
+   margin-top: 50px;
+}
+
+.footer-resources ul{
+    font-weight: bold;
+}
+
+.footer-resources p{
+    font-size: 20px;
+}
+
+.footer-resources li{
+    list-style: none;
+    margin-top: 15px;
+    color: #6b7280;
+    font-size: 12px;
+}
+
+.footer-media a i{
+    width: 20px;
+}
+
+
+#footer-logo-img{
+    margin-top: 15px;
+    width: 200px;
+    height: 30px;
+}
+#starindia{
+    width: 220px;
+}
+.footer-p{
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+.footer-bottom{
+    display: flex;
+    margin-top: 50px;
+}
+.footer-media{
+    margin-left: 50px;
+}
+.footer-media a{
+    color: rgb(94, 94, 235);
+}
+.footer-p{
+    font-size: 12px;
+    color: #6b7280;
+}
+.footer-content{
+    color: #6b7280;
+    margin: 40px;
+    margin-top: 0px;
+    text-align: justify;
+}
+.footer-content p{
+    margin-bottom: 15px;
+}
+.footer-content a{
+    color: rgb(94, 94, 235);
+}
+
+hr{
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+.copyrights{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
